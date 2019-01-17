@@ -3,6 +3,6 @@
     "scripts": {},
     "devDependencies": {},
     "dependencies": {
-        "@0x/connect": "^3.0.12"
+        "@0x/connect": "^3.0.13"
     }
 }
