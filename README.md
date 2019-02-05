@@ -22,6 +22,7 @@ https://codesandbox.io/s/github/0xproject/0x-codesandbox
 MAKER: 2 WETH
 TAKER: 1 Microsponsors ERC721, token id: 0
 order hash: 0xc2d8f14b392b53c8bf44e96be4af25f2e0caf12def9af94a534632ddd9e842e4
+```
 {
   "exchangeAddress": "0x48bacb9266a570d521063ef5dd96e61686dbe788",
   "makerAddress": "0x69b83d8c38dfeb7e6100c7b7ac3e2863bede5302",
@@ -38,6 +39,7 @@ order hash: 0xc2d8f14b392b53c8bf44e96be4af25f2e0caf12def9af94a534632ddd9e842e4
   "takerFee": "0",
   "signature": "0x1b142208aae3da792e99bc983e75869e77c2eb8b4be1047eb32a2ef7cb00c91add4048ff47d9dbeacc7280cb883d552495c26a1e1c2a87de6cb4b09425d6e63aad02"
 }
+```
 
 
 9. Order by 0x69b
