@@ -1,3 +1,5 @@
+### :warning: :x: DEPRECATED - DO NOT USE :x: :warning:
+
 # 0x Hackathon Connect Client
 
 A simple repo created to get oriented with the the 0x Connect client, which sends and retrieves orders from the 0x Launch Kit relayer.
